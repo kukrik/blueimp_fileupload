@@ -3,8 +3,7 @@
 
 ## Blueimp FileUpload for QCubed v4
 
-Home page for the lib is https://github.com/blueimp/jQuery-File-Upload and demo is at
-https://blueimp.github.io/jQuery-File-Upload/, where you can see example of use.
+Home page for the lib is https://github.com/blueimp/jQuery-File-Upload and demo is at https://blueimp.github.io/jQuery-File-Upload/, where you can see example of use.
 
 File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
 Supports cross-domain, chunked and resumable file uploads and client-side image resizing.
