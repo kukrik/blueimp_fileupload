@@ -12,11 +12,11 @@ Here this plugin has been redesigned for QCubed v4.
 
 If you have not previously installed QCubed Bootstrap and twitter bootstrap, run the following actions on the command line of your main installation directory by Composer:
 ```
-    composer require qcubed/bootstrap
-    composer require twbs/bootstrap
+composer require qcubed/bootstrap
+composer require twbs/bootstrap
 ```
 and
 
 ```
-	composer require kukrik/blueimp_fileupload
+composer require kukrik/blueimp_fileupload
 ```    
