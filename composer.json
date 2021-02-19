@@ -1,0 +1,16 @@
+{
+    "name": "kukrik/blueimp_fileupload",
+    "description": "QCubed plugin for Blueimp Fileupload.",
+    "type": "qcubed-library",
+    "keywords": ["qcubed", "blueimp_fileupload"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+      "psr-4": {"QCubed\\Plugin\\": "src/"}
+    },
+    "extra": {
+        "examples": ["fileupload.php"]
+    }
+}
